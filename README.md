@@ -2,15 +2,13 @@
 
 # AND101 Project 7 - CYOAPI Part 3: Beautified
 
-Submitted by: **Your Name Here**
+Submitted by: *Shraddha 
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
-
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+couldn't finish it
 
 ## Application Features
 
@@ -52,7 +50,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2023 shraddha subash
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
